@@ -46,6 +46,13 @@ docker-compose up -d
 prisma db push
 ```
 
+## Try the api commands at local
+
+```sh
+localhost:3000/docs
+```
+
+
 ## Close down postgres to avoid port bind
 
 ```sh
